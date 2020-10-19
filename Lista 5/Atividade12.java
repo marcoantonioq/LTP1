@@ -9,9 +9,8 @@ public class Atividade12 {
 
         Scanner Obj = new Scanner(System.in);
         
-        // System.out.println("Informe numero: ");
-        // double valor = Obj.nextDouble();
-        double valor = 1; // teste
+        System.out.println("Informe numero: ");
+        double valor = Obj.nextDouble();
 
         // A)
         System.out.println("\nSe valor é > 0! ");
