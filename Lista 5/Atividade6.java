@@ -6,16 +6,16 @@ public class Atividade6 {
 
         Scanner Obj = new Scanner(System.in);
 
-        System.out.println("Digite identificardo do vendedor: ");
+        System.out.print("Digite identificardo do vendedor: ");
         int id_vendedor = Obj.nextInt();
 
-        System.out.println("Digite codigo peça: ");
+        System.out.print("Digite codigo peça: ");
         int cod_peca = Obj.nextInt();
 
-        System.out.println("Digite preço unitário da peça: ");
+        System.out.print("Digite preço unitário da peça: ");
         double preco = Obj.nextDouble();
 
-        System.out.println("Quantidade vendida: ");
+        System.out.print("Quantidade vendida: ");
         int qt = Obj.nextInt();
 
         double comissao = preco * qt;

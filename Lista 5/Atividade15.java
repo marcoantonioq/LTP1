@@ -10,13 +10,13 @@ public class Atividade15 {
         int n4;
         Scanner Obj = new Scanner(System.in);
 
-        System.out.println("Numero 1: ");
+        System.out.print("Numero 1: ");
         n1 = Obj.nextInt();
-        System.out.println("Numero 2: ");
+        System.out.print("Numero 2: ");
         n2 = Obj.nextInt();
-        System.out.println("Numero 3: ");
+        System.out.print("Numero 3: ");
         n3 = Obj.nextInt();
-        System.out.println("Numero 4: ");
+        System.out.print("Numero 4: ");
         n4 = Obj.nextInt();
         
         System.out.println("Quadrado de n1 é: " + n1 * 2);

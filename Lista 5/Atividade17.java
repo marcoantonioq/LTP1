@@ -8,7 +8,7 @@ public class Atividade17 {
 
         Scanner Obj = new Scanner(System.in);
 
-        System.out.println("Informe a idade do nadador: ");
+        System.out.print("Informe a idade do nadador: ");
         idade = Obj.nextInt();
 
         if(idade >=5 && idade <= 7 ){

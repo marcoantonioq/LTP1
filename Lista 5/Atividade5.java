@@ -6,16 +6,16 @@ public class Atividade5 {
 
         Scanner Obj = new Scanner(System.in);
 
-        System.out.println("Digite valor para n1: ");
+        System.out.print("Digite valor para n1: ");
         double n1 = Obj.nextDouble();
 
-        System.out.println("Digite valor para n2: ");
+        System.out.print("Digite valor para n2: ");
         double n2 = Obj.nextDouble();
 
-        System.out.println("Digite valor para n3: ");
+        System.out.print("Digite valor para n3: ");
         double n3 = Obj.nextDouble();
 
-        System.out.println("Digite valor para n4: ");
+        System.out.print("Digite valor para n4: ");
         double n4 = Obj.nextDouble();
 
         System.out.println("Quadrado de N1 é: "+ n1*2);

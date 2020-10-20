@@ -13,10 +13,10 @@ public class Atividade14 {
 
         Scanner Obj = new Scanner(System.in);
 
-        System.out.println("Código: ");
+        System.out.print("Código: ");
         C = Obj.nextInt();
 
-        System.out.println("Horas trabalhadas: ");
+        System.out.print("Horas trabalhadas: ");
         N = Obj.nextDouble();
 
         if(N > 50) {

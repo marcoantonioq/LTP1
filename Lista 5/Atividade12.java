@@ -41,11 +41,11 @@ public class Atividade12 {
         }
         
         // D)
-        System.out.println("Digite sexo (m=masculino ou f=feminino): ");
+        System.out.print("Digite sexo (m=masculino ou f=feminino): ");
         String sexo = Obj.nextLine();
         // String sexo = "m";
 
-        System.out.println("Digite sua altura: ");
+        System.out.print("Digite sua altura: ");
         Double h = Obj.nextDouble();
         // Double h = 1.70;
 

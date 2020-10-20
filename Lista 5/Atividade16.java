@@ -8,7 +8,7 @@ public class Atividade16 {
 
         Scanner Obj = new Scanner(System.in);
 
-        System.out.println("Informe o índice: ");
+        System.out.print("Informe o índice: ");
         indice = Obj.nextInt();
 
         System.out.println("Índice: "+indice);

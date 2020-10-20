@@ -10,7 +10,7 @@ public class Atividade13 {
 
         Scanner Obj = new Scanner(System.in);
 
-        System.out.println("Informe peso peixe: ");
+        System.out.print("Informe peso peixe: ");
         peso_peixes = Obj.nextDouble();
 
         if(peso_peixes > 50) {

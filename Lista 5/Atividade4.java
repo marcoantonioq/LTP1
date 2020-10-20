@@ -6,10 +6,10 @@ public class Atividade4 {
 
         Scanner Obj = new Scanner(System.in);
 
-        System.out.println("Informe cotação dolar atual: ");
+        System.out.print("Informe cotação dolar atual: ");
         double cotacao_dolar = Obj.nextDouble();
 
-        System.out.println("Informe valor em dolar: ");
+        System.out.print("Informe valor em dolar: ");
         double dolar = Obj.nextDouble();
 
         double valor = cotacao_dolar * dolar;

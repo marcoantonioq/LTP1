@@ -7,10 +7,10 @@ public class Atividade2 {
 
         Scanner Obj = new Scanner(System.in);
 
-        System.out.println("Informe quantidade mínima");
+        System.out.print("Informe quantidade mínima");
         int mini = Obj.nextInt();
 
-        System.out.println("Informe quantidade máxima: ");
+        System.out.print("Informe quantidade máxima: ");
         int max = Obj.nextInt();
 
         double media = ( mini + max ) / 2;
