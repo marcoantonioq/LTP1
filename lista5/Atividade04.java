@@ -5,8 +5,6 @@ public class Atividade04 {
     
     public Atividade04(){
 
-        System.out.println("\n\nAtividade 04");
-        
         Scanner Obj = new Scanner(System.in);
         
         System.out.print("Informe cotação dolar atual: ");

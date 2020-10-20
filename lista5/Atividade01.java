@@ -6,8 +6,6 @@ import java.util.Scanner;  // Import Scanner class
 public class Atividade01 { // class
     public Atividade01(){ // constrututor
 
-        System.out.println("\n\nAtividade 01");
-
         Scanner Obj = new Scanner(System.in);
         
         System.out.print("Informe o codigo da peça: ");

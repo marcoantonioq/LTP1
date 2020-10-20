@@ -5,8 +5,6 @@ public class Atividade02 {
     
     public Atividade02(){
 
-        System.out.println("\n\nAtividade 02");
-        
         Scanner Obj = new Scanner(System.in);
         
         System.out.print("Informe quantidade mínima");

@@ -1,9 +1,9 @@
-import java.util.Scanner;  // Import Scanner class
+package lista5;
+import java.util.Scanner;
 
 public class Atividade16 {
-
-	public static void main (String arg []){
-
+    
+    public Atividade16(){
         double indice;
 
         Scanner Obj = new Scanner(System.in);

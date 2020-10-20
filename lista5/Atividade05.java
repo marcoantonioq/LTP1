@@ -5,8 +5,6 @@ public class Atividade05 {
     
     public Atividade05(){
 
-        System.out.println("\n\nAtividade 05");
-
         Scanner Obj = new Scanner(System.in);
 
         System.out.print("Digite valor para n1: ");

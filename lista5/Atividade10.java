@@ -1,9 +1,10 @@
-import java.util.Scanner;  // Import Scanner class
+
+package lista5;
+import java.util.Scanner;
 
 public class Atividade10 {
-
-	public static void main (String arg []){
-
+    
+    public Atividade10(){
         int A = 3;
         int B = 7;
         int C = 4;

@@ -1,8 +1,10 @@
-import java.util.Scanner;  // Import Scanner class
 
-public class Atividade9 {
+package lista5;
+import java.util.Scanner;
 
-	public static void main (String arg []){
+public class Atividade09 {
+    
+    public Atividade09(){
 
         // Primeiros valores
         System.out.println("100   0   100");
