@@ -1,20 +1,22 @@
+package lista5;
+import java.util.Scanner;
 
-import java.util.Scanner;  // Import Scanner class
+public class Atividade02 {
+    
+    public Atividade02(){
 
-public class Atividade2 {
-
-	public static void main (String arg []){
-
+        System.out.println("\n\nAtividade 02");
+        
         Scanner Obj = new Scanner(System.in);
-
+        
         System.out.print("Informe quantidade mínima");
         int mini = Obj.nextInt();
-
+        
         System.out.print("Informe quantidade máxima: ");
         int max = Obj.nextInt();
-
+        
         double media = ( mini + max ) / 2;
-
+        
         System.out.println("Estoque médio: " + media);
-	}
+    }
 }
