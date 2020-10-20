@@ -1,8 +1,9 @@
-import java.util.Scanner;  // Import Scanner class
+package lista5;
+import java.util.Scanner;
 
-public class Atividade6 {
-
-	public static void main (String arg []){
+public class Atividade06 {
+    
+    public Atividade06(){
 
         Scanner Obj = new Scanner(System.in);
 
