@@ -6,20 +6,17 @@ public class Atividade11 { // class
     public Atividade11(){ // constrututor
         Scanner Obj = new Scanner(System.in);
         
-        int segundo=5123;
-        float hh, mm, ss;
-        String time;
+        int idade;
+        float mes, ano;
         
-        // System.out.print("Informe valor: ");
-        // segundo = Obj.nextInt();
+        System.out.print("Informe valor: ");
+        idade = Obj.nextInt();
         
-        hh = segundo / 3600; // Double.toString converte para string
-        mm = (segundo - (hh *3600))/ 60; 
-        ss = segundo % 60 ; 
-        
-        time = String.format("Time: %.0f:%.0f:%.0f", hh,mm,ss);
+        mes = idade / 30; // Double.toString converte para string
+        ano = idade / 365; 
 
-        System.out.println(time);
+        System.out.println("Mêses de vida: "+mes);
+        System.out.println("Anos de vida: "+ano);
 
         
     }
