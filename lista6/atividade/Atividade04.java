@@ -1,9 +1,9 @@
+package atividade;
+
 import java.util.Scanner;  // Import Scanner class
 
-public class Atividade04 {
-    
-    public static void main (String arg []){
-        
+public class Atividade04 { // class
+    public Atividade04(){ // constrututor
         Scanner Obj = new Scanner(System.in);
         
         int num_funcionario, num_horas;

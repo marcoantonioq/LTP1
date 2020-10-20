@@ -1,9 +1,9 @@
+package atividade;
+
 import java.util.Scanner;  // Import Scanner class
 
-public class Atividade03 {
-    
-    public static void main (String arg []){
-        
+public class Atividade03 { // class
+    public Atividade03(){ // constrututor
         Scanner Obj = new Scanner(System.in);
         
         double A, B, C, D, DIFERENCA;

@@ -1,9 +1,9 @@
+package atividade;
+
 import java.util.Scanner;  // Import Scanner class
 
-public class Atividade08 {
-    
-    public static void main (String arg []){
-        
+public class Atividade08 { // class
+    public Atividade08(){ // constrututor
         Scanner Obj = new Scanner(System.in);
 
         double consumo, distancia, combustivel;

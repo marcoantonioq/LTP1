@@ -1,9 +1,10 @@
+ 
+package atividade;
+
 import java.util.Scanner;  // Import Scanner class
 
-public class Atividade06 {
-    
-    public static void main (String arg []){
-        
+public class Atividade06 { // class
+    public Atividade06(){ // constrututor
         Scanner Obj = new Scanner(System.in);
         
         int cod_peca1, num_peca1;
