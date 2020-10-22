@@ -4,7 +4,7 @@ public class Teste {
     
     public static void main (String arg []){
         
-        System.out.println("Bem vindo a Lista de Atividades 6!");
+        System.out.println("Bem vindo a Lista de Atividades 7!");
         
         // System.out.println("\n\nAtividade 01");
         // new Atividade01();
@@ -65,8 +65,8 @@ public class Teste {
 
         // System.out.println("\n\nAtividade 21");
         // new Atividade21();
-        
-        System.out.println("\n\nAtividade 22");
-        new Atividade22();
+
+        // System.out.println("\n\nAtividade 22");
+        // new Atividade22();
     }
 }
