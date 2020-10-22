@@ -7,26 +7,15 @@ public class Atividade15 { // class
         
         Scanner input = new Scanner(System.in);
         
-        double A,B,C;
+        int ano;
         
-        System.out.print("Informa lado A: ");
-        A = input.nextDouble();
+        System.out.print("Digite ano: ");
+        ano = input.nextInt();
         
-        System.out.print("Informa lado B: ");
-        B = input.nextDouble();
-        
-        System.out.print("Informa lado C: ");
-        C = input.nextDouble();
-        
-        if(A == 0 || B == 0 || C == 0){
-            System.out.println("Valores não pode ser 0");
+        if((ano % 400 == 0) || (ano % 4 == 0 && ano % 100 != 0)){
+            System.out.print(ano + " é um ano bissexto!!!");
         } else {
-            if(C > A + B || A > B + C || B > A + C) {
-                System.out.println("Perimetro = " + (A+B+C));
-            } else {
-                System.out.println("Não é um triangulo");
-                System.out.println("Área do trapézio: " + ((C+B)/2)*A );
-            }
+            System.out.print(ano + " não é um ano bissexto!!!");
         }
         
     }
