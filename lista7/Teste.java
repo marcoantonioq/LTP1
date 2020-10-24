@@ -15,8 +15,8 @@ public class Teste {
         // System.out.println("\n\nAtividade 03");
         // new Atividade03();
         
-        // System.out.println("\n\nAtividade 04");
-        // new Atividade04();
+        System.out.println("\n\nAtividade 04");
+        new Atividade04();
         
         // System.out.println("\n\nAtividade 05");
         // new Atividade05();
