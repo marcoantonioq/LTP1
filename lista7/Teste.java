@@ -15,14 +15,17 @@ public class Teste {
         // System.out.println("\n\nAtividade 03");
         // new Atividade03();
         
-        System.out.println("\n\nAtividade 04");
-        new Atividade04();
+        // System.out.println("\n\nAtividade 04");
+        // new Atividade04();
         
         // System.out.println("\n\nAtividade 05");
         // new Atividade05();
         
         // System.out.println("\n\nAtividade 06");
         // new Atividade06();
+
+        // System.out.println("\n\nAtividade 07");
+        // new Atividade07();
         
         // System.out.println("\n\nAtividade 08");
         // new Atividade08();
@@ -36,8 +39,8 @@ public class Teste {
         // System.out.println("\n\nAtividade 11");
         // new Atividade11();
 
-        // System.out.println("\n\nAtividade 12");
-        // new Atividade12();
+        System.out.println("\n\nAtividade 12");
+        new Atividade12();
 
         // System.out.println("\n\nAtividade 13");
         // new Atividade13();
