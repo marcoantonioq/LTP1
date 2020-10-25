@@ -45,8 +45,8 @@ public class Teste {
         // System.out.println("\n\nAtividade 13");
         // new Atividade13();
 
-        System.out.println("\n\nAtividade 14");
-        new Atividade14();
+        // System.out.println("\n\nAtividade 14");
+        // new Atividade14();
 
         // System.out.println("\n\nAtividade 15");
         // new Atividade15();
@@ -63,8 +63,8 @@ public class Teste {
         // System.out.println("\n\nAtividade 19");
         // new Atividade19();
 
-        // System.out.println("\n\nAtividade 20");
-        // new Atividade20();
+        System.out.println("\n\nAtividade 20");
+        new Atividade20();
 
         // System.out.println("\n\nAtividade 21");
         // new Atividade21();
