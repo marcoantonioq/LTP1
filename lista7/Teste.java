@@ -39,14 +39,14 @@ public class Teste {
         // System.out.println("\n\nAtividade 11");
         // new Atividade11();
 
-        System.out.println("\n\nAtividade 12");
-        new Atividade12();
+        // System.out.println("\n\nAtividade 12");
+        // new Atividade12();
 
         // System.out.println("\n\nAtividade 13");
         // new Atividade13();
 
-        // System.out.println("\n\nAtividade 14");
-        // new Atividade14();
+        System.out.println("\n\nAtividade 14");
+        new Atividade14();
 
         // System.out.println("\n\nAtividade 15");
         // new Atividade15();
