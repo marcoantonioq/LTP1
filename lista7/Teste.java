@@ -63,13 +63,13 @@ public class Teste {
         // System.out.println("\n\nAtividade 19");
         // new Atividade19();
 
-        System.out.println("\n\nAtividade 20");
-        new Atividade20();
+        // System.out.println("\n\nAtividade 20");
+        // new Atividade20();
 
         // System.out.println("\n\nAtividade 21");
         // new Atividade21();
 
-        // System.out.println("\n\nAtividade 22");
-        // new Atividade22();
+        System.out.println("\n\nAtividade 22");
+        new Atividade22();
     }
 }
